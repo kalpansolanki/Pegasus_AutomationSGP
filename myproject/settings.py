@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-gtub&_$k4)t3mbsm!1z=q72%)sm!b6o^u=e6@5izn9ib$5!ao1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
